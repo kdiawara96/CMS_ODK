@@ -1,0 +1,88 @@
+# Translation of Themes - New Blog Jr in French (France)
+# This file is distributed under the same license as the Themes - New Blog Jr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-13 21:07:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - New Blog Jr\n"
+
+#. Description of the theme
+msgid "New Blog Jr is a light theme with many places to show your articles. A clean and simple look is the main showcases of this theme. New Blog Jr theme is a free child WordPress theme of parent theme New Blog. You can view demo here: https://www.postmagthemes.com/demonewblogjr"
+msgstr "New Blog Jr est un thème léger avec de nombreux endroits pour montrer vos articles. Un look épuré et simple mettent ce thème en avant. Le thème New Blog Jr est un thème WordPress enfant gratuit du thème parent New Blog. Vous pouvez voir la démo ici : https://www.postmagthemes.com/demonewblogjr"
+
+#. Theme Name of the theme
+msgid "New Blog Jr"
+msgstr "New Blog Jr"
+
+#: functions.php:59
+msgid "3 columns "
+msgstr "3 colonnes"
+
+#: functions.php:84
+msgid "Select the 1st category among"
+msgstr "Sélectionnez la 1ère catégorie parmi"
+
+#: functions.php:112
+msgid "Select the 3rd category among"
+msgstr "Sélectionnez la 3e catégorie parmi"
+
+#: functions.php:98
+msgid "Select the 2nd category among"
+msgstr "Sélectionnez la 2e catégorie parmi"
+
+#: template-parts/content-banner.php:37
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: functions.php:141
+msgid "Default image "
+msgstr "Image par défaut"
+
+#: index.php:147 index.php:184
+msgid "Next"
+msgstr "Prochain"
+
+#: index.php:146 index.php:183
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/related-posts-front.php:19
+msgid "Related posts"
+msgstr "Articles similaires"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:69
+msgid "Enable related posts by category"
+msgstr "Activer les publications relatives par catégorie"
+
+#: functions.php:58
+msgid "1 column with related posts"
+msgstr "1 colonne avec des publications relatives"
+
+#: functions.php:53
+msgid "Display layout type"
+msgstr "Afficher les types de mise en page"
+
+#: header.php:181
+msgid "Toggle navigation"
+msgstr "Permuter la navigation"
+
+#. Author URI of the theme
+msgid "https://www.postmagthemes.com/"
+msgstr "https://www.postmagthemes.com/"
+
+#. Author of the theme
+msgid "www.postmagthemes.com"
+msgstr "www.postmagthemes.com"
+
+#. Theme URI of the theme
+msgid "https://www.postmagthemes.com/downloads/new-blog-jr-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/new-blog-jr-free-wordpress-theme/"
